@@ -10,3 +10,6 @@ Why would anyone use this?!
 1. Click "Ok" or press enter and wait
 1. Suicide
 1. Profit
+
+## Screenshot
+![Screenshot](https://i.imgur.com/KeEO2ex.png)

@@ -8,7 +8,7 @@ Why would anyone use this?!
 1. Right-Click -> Run
 1. Enter either a YouTube URL (or any other site that's compatible with youtube-dl) or a YouTube search term
 1. Click "Ok" or press enter and wait
-1. Suicide
+1. Suicide (please don't actually kys k thx bai)
 1. ...
 1. Profit
 
